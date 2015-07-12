@@ -1,0 +1,14 @@
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\Import-Contacts-from-JSON\bin\Debug\Import-Contacts-from-JSON.exe.config
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\Import-Contacts-from-JSON\bin\Debug\Import-Contacts-from-JSON.exe
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\Import-Contacts-from-JSON\bin\Debug\Import-Contacts-from-JSON.pdb
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\Import-Contacts-from-JSON\bin\Debug\EF-Code-First-Phonebook.exe
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\Import-Contacts-from-JSON\bin\Debug\EntityFramework.dll
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\Import-Contacts-from-JSON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\Import-Contacts-from-JSON\bin\Debug\EF-Code-First-Phonebook.pdb
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\Import-Contacts-from-JSON\bin\Debug\EntityFramework.xml
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\Import-Contacts-from-JSON\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\Import-Contacts-from-JSON\obj\Debug\07.Import-Contacts-from-JSON.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\Import-Contacts-from-JSON\obj\Debug\Import-Contacts-from-JSON.exe
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\Import-Contacts-from-JSON\obj\Debug\Import-Contacts-from-JSON.pdb
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\Import-Contacts-from-JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\Import-Contacts-from-JSON\bin\Debug\Newtonsoft.Json.xml

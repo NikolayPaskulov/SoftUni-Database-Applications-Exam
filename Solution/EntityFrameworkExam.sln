@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.List-Team-Names", "List-Team-Names\01.List-Team-Names.csproj", "{C564164F-5F69-4B84-A4FC-2D354D66AD0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Export-The-Leagues-and-Teams-as-JSON", "Export-The-Leagues-and-Teams-as-JSON\02.Export-The-Leagues-and-Teams-as-JSON.csproj", "{24D4C8A7-6A4F-4044-B76E-D396686D342F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Export-International-Matches-as-XML", "Export-International-Matches-as-XML\03.Export-International-Matches-as-XML.csproj", "{C244FDB1-FA53-4040-92BD-4D5FE6AA6859}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Import-Leagues-and-Teams-from-XML", "Import-Leagues-and-Teams-from-XML\04.Import-Leagues-and-Teams-from-XML.csproj", "{30376937-F663-40CF-B7C8-2D9F5F495C8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EF-Code-First-Phonebook", "EF-Code-First-Phonebook\06.EF-Code-First-Phonebook.csproj", "{E961AE6A-CB15-4F6A-A05A-4611FB52E5A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Import-Contacts-from-JSON", "Import-Contacts-from-JSON\07.Import-Contacts-from-JSON.csproj", "{BE411017-0ED5-4B05-932B-98B2F61F3CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Generate-Random-Matches", "Generate-Random-Matches\05.Generate-Random-Matches.csproj", "{A8492C8C-7F8C-4876-A599-06A361F8F835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C564164F-5F69-4B84-A4FC-2D354D66AD0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C564164F-5F69-4B84-A4FC-2D354D66AD0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C564164F-5F69-4B84-A4FC-2D354D66AD0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C564164F-5F69-4B84-A4FC-2D354D66AD0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D4C8A7-6A4F-4044-B76E-D396686D342F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D4C8A7-6A4F-4044-B76E-D396686D342F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D4C8A7-6A4F-4044-B76E-D396686D342F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D4C8A7-6A4F-4044-B76E-D396686D342F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C244FDB1-FA53-4040-92BD-4D5FE6AA6859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C244FDB1-FA53-4040-92BD-4D5FE6AA6859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C244FDB1-FA53-4040-92BD-4D5FE6AA6859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C244FDB1-FA53-4040-92BD-4D5FE6AA6859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30376937-F663-40CF-B7C8-2D9F5F495C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30376937-F663-40CF-B7C8-2D9F5F495C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30376937-F663-40CF-B7C8-2D9F5F495C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30376937-F663-40CF-B7C8-2D9F5F495C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E961AE6A-CB15-4F6A-A05A-4611FB52E5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E961AE6A-CB15-4F6A-A05A-4611FB52E5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E961AE6A-CB15-4F6A-A05A-4611FB52E5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E961AE6A-CB15-4F6A-A05A-4611FB52E5A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE411017-0ED5-4B05-932B-98B2F61F3CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE411017-0ED5-4B05-932B-98B2F61F3CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE411017-0ED5-4B05-932B-98B2F61F3CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE411017-0ED5-4B05-932B-98B2F61F3CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8492C8C-7F8C-4876-A599-06A361F8F835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8492C8C-7F8C-4876-A599-06A361F8F835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8492C8C-7F8C-4876-A599-06A361F8F835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8492C8C-7F8C-4876-A599-06A361F8F835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

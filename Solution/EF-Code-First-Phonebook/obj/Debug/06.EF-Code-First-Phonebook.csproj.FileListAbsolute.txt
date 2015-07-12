@@ -1,0 +1,10 @@
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\EF-Code-First-Phonebook\bin\Debug\EF-Code-First-Phonebook.exe.config
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\EF-Code-First-Phonebook\bin\Debug\EF-Code-First-Phonebook.exe
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\EF-Code-First-Phonebook\bin\Debug\EF-Code-First-Phonebook.pdb
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\EF-Code-First-Phonebook\bin\Debug\EntityFramework.dll
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\EF-Code-First-Phonebook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\EF-Code-First-Phonebook\bin\Debug\EntityFramework.xml
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\EF-Code-First-Phonebook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\EF-Code-First-Phonebook\obj\Debug\06.EF-Code-First-Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\EF-Code-First-Phonebook\obj\Debug\EF-Code-First-Phonebook.exe
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\EF-Code-First-Phonebook\obj\Debug\EF-Code-First-Phonebook.pdb

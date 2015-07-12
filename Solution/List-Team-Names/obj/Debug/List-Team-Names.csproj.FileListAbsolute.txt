@@ -1,0 +1,10 @@
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\List-Team-Names\bin\Debug\List-Team-Names.exe.config
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\List-Team-Names\bin\Debug\List-Team-Names.exe
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\List-Team-Names\bin\Debug\List-Team-Names.pdb
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\List-Team-Names\bin\Debug\EntityFramework.dll
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\List-Team-Names\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\List-Team-Names\bin\Debug\EntityFramework.xml
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\List-Team-Names\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\List-Team-Names\obj\Debug\List-Team-Names.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\List-Team-Names\obj\Debug\List-Team-Names.exe
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\List-Team-Names\obj\Debug\List-Team-Names.pdb

@@ -1,0 +1,1 @@
+C:\Users\UniUser\Desktop\EntityExam - 29.03.2015\Exam\EntityFrameworkExam\EF-Code-First-Phonebook\bin\Debug\EF-Code-First-Phonebook.exe.config
